@@ -1,4 +1,4 @@
-# Sussyblue's page
+# [Sussyblue's page](blueamongus.github.io)
 
 - A page which is made by sussyblue(himself)
 
