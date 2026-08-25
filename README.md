@@ -1,13 +1,12 @@
-# [Sussyblue's page](blueamongus.github.io)
+Welcome to BlueAmongUs's page repository.
+Where you can find the quick information about BlueAmongUs. Including: Discord username, Roblox profile, and Youtube channels.
 
-- A page which is made by sussyblue(himself)
+Here you can find the source code for the page.
 
-- It uses: 
+
+- It implements: 
     + [SvelteKit](https://kit.svelte.dev/)
         ([adapter-static](https://kit.svelte.dev/docs/adapter-static))
     + [Vite](https://https://vitejs.dev/)
 
-- It shows:
-    + Sussyblue's personality
-    + Sussyblue's interests
-    + Sussyblue's connections
+All of contributions efforts are welcome and appreciated :)
